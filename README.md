@@ -1,4 +1,6 @@
 # Machine-learnig
 My ongoing journey to machine learnig
 
-### O1. Linear Regression
+### 01. Linear Regression
+- MSE
+- MAE
