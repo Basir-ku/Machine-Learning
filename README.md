@@ -1,5 +1,5 @@
-# Machine-learnig
-My ongoing journey to machine learnig
+# Machine-learning
+My ongoing journey to machine learning
 
 ### 01. Linear Regression
 - MSE & MAE
