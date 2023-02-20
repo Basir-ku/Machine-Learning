@@ -2,7 +2,7 @@
 My ongoing journey to machine learning
 
 ### 01. Linear Regression
-- MSE & MAE
+- Least Squares Method
 ### 02. Scaling
 Techniques to perform Feature Transformation:
 - Normalization
