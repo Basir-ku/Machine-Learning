@@ -9,3 +9,9 @@ Techniques to perform Feature Transformation:
 - Standardization
 - Robust Scaler
 - Max Absolute Scaler
+### 03.linear regression, knn regression, knn classifier
+### 04.Encoding
+- Label Encoding
+- One Hot Encoding
+- Ordinal encoding
+### 05. Decision Tree 
